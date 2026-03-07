@@ -108,3 +108,4 @@ WHERE v.type_local = 'Appartement'
 GROUP BY r.nom_region
 ORDER BY prix_m2_moyen DESC;
 
+
