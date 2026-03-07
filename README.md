@@ -94,9 +94,9 @@ Un fichier contenant **des exemples de requêtes SQL utilisées dans l'analyse**
 
 # 📂 Contenu du repository
 
-example_sql_queries.sql → exemples de requêtes SQL utilisées pour l'analyse
-data_dictionary.xlsx → dictionnaire des données
-project_presentation.pptx → présentation du projet
+example_sql_queries.sql → exemples de requêtes SQL utilisées pour l'analyse  
+data_dictionary.xlsx → dictionnaire des données  
+project_presentation.pptx → présentation du projet  
 
 ---
 
