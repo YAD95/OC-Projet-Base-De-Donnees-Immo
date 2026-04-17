@@ -1,4 +1,4 @@
-🇫🇷 Français | [🇬🇧 English](README.en.md)
+🇫🇷 Français | readme in english 👉 [🇬🇧 English](README.en.md)
 # 🏠 Real Estate Market Analysis – Laplace Immo Database
 
 Projet réalisé dans le cadre de la formation **Data Engineer - OpenClassrooms**.
